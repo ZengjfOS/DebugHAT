@@ -13,12 +13,12 @@
 
 ## Gerber File
 
-[Gerber_Debug_HAT_20191101093810.zip](Gerber_Debug_HAT_20191101093810.zip)
+[Gerber_Debug_HAT.zip](Gerber_Debug_HAT.zip)
 
 
 ## BOM
 
-[BOM_DebugHAT_20191101112548.csv](BOM_DebugHAT_20191101112548.csv)
+[BOM_DebugHAT.csv](BOM_DebugHAT.csv)
 
 
 ## Schematic
