@@ -8,8 +8,10 @@
 
 **注意**： 
 * 通过选择焊接`RPI`、`VIM3`两组电阻选择Raspberry Pi、Khadas VIM3主板；
-* `R32`、`R33`、`R35`用于选择外围电路电源；
+* `R39`、`R40`、`R41`用于选择外围电路电源；
+* 原理图中有不少`0欧姆`电阻，主要用于选择，请注意查看原理图；
 
+![DebugHAT_RPI4_Conected.jpg](DebugHAT_RPI4_Conected.jpg)
 
 ## Gerber File
 
@@ -29,3 +31,9 @@
 ## PCB
 
 ![PCB_Debug_HAT.png](PCB_Debug_HAT.png)  
+
+
+## Console
+
+![DebugHAT_Console.png](DebugHAT_Console.png)
+
